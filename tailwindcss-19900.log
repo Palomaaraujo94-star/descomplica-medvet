@@ -1,0 +1,46 @@
+2026-07-12T02:32:58.278971Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2026-07-12T02:32:58.279075Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\AMD\\descomplica-medvet", pattern: "**/*", negated: false }
+2026-07-12T02:32:58.280008Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2026-07-12T02:32:58.280035Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\AMD\\descomplica-medvet" }
+2026-07-12T02:32:58.282180Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.282214Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.285112Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.285557Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\postcss.config.mjs"
+2026-07-12T02:32:58.285552Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\app\\page.tsx"
+2026-07-12T02:32:58.285564Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\public\\vercel.svg"
+2026-07-12T02:32:58.285581Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\public\\globe.svg"
+2026-07-12T02:32:58.285603Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\AGENTS.md"
+2026-07-12T02:32:58.285569Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\eslint.config.mjs"
+2026-07-12T02:32:58.285572Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\next.config.ts"
+2026-07-12T02:32:58.285633Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\package.json"
+2026-07-12T02:32:58.285668Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\public\\window.svg"
+2026-07-12T02:32:58.285677Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\public\\file.svg"
+2026-07-12T02:32:58.285675Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\CLAUDE.md"
+2026-07-12T02:32:58.285706Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\public\\next.svg"
+2026-07-12T02:32:58.285714Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\app\\layout.tsx"
+2026-07-12T02:32:58.285715Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\netlify.toml"
+2026-07-12T02:32:58.285729Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\tsconfig.json"
+2026-07-12T02:32:58.285737Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\README.md"
+2026-07-12T02:32:58.285786Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.285799Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.285806Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.285814Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.285986Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.285998Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.286008Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.286014Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2026-07-12T02:32:58.286100Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "C:\\Users\\AMD\\descomplica-medvet\\app\\globals.css"
+2026-07-12T02:32:58.286112Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.286118Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.286124Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.286157Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.286207Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.286259Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.286446Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.286456Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.286461Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.286504Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.286654Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.286663Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: enter
+2026-07-12T02:32:58.286668Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: exit
+2026-07-12T02:32:58.290994Z  INFO get_globs: tailwindcss_oxide::scanner: exit
